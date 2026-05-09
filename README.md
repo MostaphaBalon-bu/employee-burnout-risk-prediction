@@ -1,4 +1,3 @@
-```markdown
 # Employee Burnout Risk Prediction
 
 !\[Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)
@@ -224,7 +223,7 @@ This project is licensed under the MIT License.
 Dataset: Kaggle — Mental Health and Burnout in the Workplace
 Burnout framework: Maslach, C., & Leiter, M.P. Maslach Burnout Inventory
 Business statistics: World Health Organization (2024), Gallup (2023), Harvard Business Review (2024)
-```
+
 
 ---
 
