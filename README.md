@@ -1,6 +1,6 @@
 # Employee Burnout Risk Prediction
 
-!\[Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)
+[Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)
 !\[Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.1+-orange?logo=scikit-learn)
 !\[License](https://img.shields.io/badge/License-MIT-green)
 !\[Status](https://img.shields.io/badge/Status-Complete-brightgreen)
