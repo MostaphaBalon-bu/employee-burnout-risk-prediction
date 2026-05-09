@@ -1,9 +1,19 @@
+```markdown
 # Data Download Instructions
 
-Dataset: Mental Health and Burnout
-Source: kaggle.com
+This project uses the \*\*Mental Health and Burnout in the Workplace\*\* dataset from Kaggle.
 
-Search Kaggle for the dataset name,
-download and save as:
-mental_health_workplace_survey.csv
-Place it in this data/ folder.
+\*\*Download link:\*\*
+https://www.kaggle.com/datasets (search: "Mental Health and Burnout in the Workplace")
+
+After downloading, save the file as:
+`mental\_health\_workplace\_survey.csv`
+
+Place it in this `data/` folder before running the notebooks.
+
+\*\*Dataset summary:\*\*
+- 3,000 complete survey responses
+- 25 features (demographic, psychological, work environment)
+- Binary target: BurnoutRisk (0 = Low Risk, 1 = High Risk)
+- No missing values
+```
